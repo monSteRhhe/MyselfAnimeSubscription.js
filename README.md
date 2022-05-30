@@ -8,6 +8,8 @@
 
 [点击安装](https://github.com/monSteRhhe/MyselfAnimeSubscription.js/raw/main/myselfbbs-anime-subscription.user.js)
 
+只有简单的追番列表功能，方便查看自己追了哪些番，其他功能なし。随缘更新
+
 ​    
 
 *图片字体：Deutschmeister Moderne Free Font*
